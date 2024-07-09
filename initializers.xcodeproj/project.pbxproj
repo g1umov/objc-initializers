@@ -31,6 +31,7 @@
 		F5E623002C3C461700B8E8D3 /* Employee.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Employee.m; sourceTree = "<group>"; };
 		F5E623022C3C474D00B8E8D3 /* Admin.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Admin.h; sourceTree = "<group>"; };
 		F5E623032C3C47CE00B8E8D3 /* Admin.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Admin.m; sourceTree = "<group>"; };
+		F5E623052C3D791C00B8E8D3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +48,7 @@
 		F5E622EC2C3C459E00B8E8D3 = {
 			isa = PBXGroup;
 			children = (
+				F5E623052C3D791C00B8E8D3 /* README.md */,
 				F5E622F72C3C459E00B8E8D3 /* initializers */,
 				F5E622F62C3C459E00B8E8D3 /* Products */,
 			);
